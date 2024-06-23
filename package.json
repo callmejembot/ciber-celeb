@@ -1,0 +1,19 @@
+{
+  "name": "cyber-celeb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "chalk": "^4.1.2",
+    "ethers": "5",
+    "fs": "0.0.1-security",
+    "moment-timezone": "^0.5.45"
+  }
+}
